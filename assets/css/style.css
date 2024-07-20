@@ -137,11 +137,16 @@ color : whitesmoke;
 
 .card{
     width: 325px;
-    background-color: whitesmoke;
+    background-color: #f4f4f4;
     border-radius: 10px;
-    box-shadow: 0px 2 px 4px rgba(#f0dcdc);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
     overflow: hidden;
     transition: .6s;
+}
+
+
+.card:hover{
+    transform: translateY(-20px);
 }
 
 .card img{
@@ -153,18 +158,15 @@ color : whitesmoke;
 .card-content{
     padding: 20px;
 }
-
 .card-content h1{
     font-size: 24px;
-    max-width: 10px;
+    margin-bottom: 10px;
 }
-
 .card-content p{
     font-size: 15px;
-    color: #000;
+    color: #666;
     margin-bottom: 20px;
 }
-
 .card-button{
     display: inline-block;
     background-color: #000;
