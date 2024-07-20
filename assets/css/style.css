@@ -193,7 +193,13 @@ color : whitesmoke;
 }
 
 .container .img-box{
-    display: flex;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.container .img-box .dream{
+ display: flex;
     flex-direction: column;
     width: 32.5%;
 }
