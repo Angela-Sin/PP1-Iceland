@@ -204,7 +204,11 @@ color : whitesmoke;
     width: 32.5%;
 }
 
-
+.container .img-box .dream img{
+    width: 100%;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
 @media (max-width: 100px) {
 secttion {
 padding : 100px 50px;
