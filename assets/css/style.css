@@ -22,3 +22,17 @@ section{
     padding: 110px 100px;
 }
 
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    padding: 25px 100px 0;
+
+}
+
