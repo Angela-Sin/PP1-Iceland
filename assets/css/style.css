@@ -209,6 +209,7 @@ color : whitesmoke;
     padding-bottom: 15px;
     border-radius: 15px;
 }
+
 @media (max-width: 100px) {
 secttion {
 padding : 100px 50px;
@@ -237,8 +238,17 @@ box a.boxBtn {
 padding : 15px 40px;
 }
 }
+
 @media (max-width: 600px) {
 section {
 padding : 125px 30px;
+}
+}
+@media (max-width: 576px){
+.container .img-box{
+    flex-direction: column;
+}
+.container .img-box .dream{
+    width: 100%;
 }
 }
