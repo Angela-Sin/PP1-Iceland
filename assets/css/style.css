@@ -5,7 +5,7 @@ box-sizing : border-box;
 }
 body {
 font-family : 'Poppins', sans-serif;
-background-color: gray;
+background-color: rgb(11, 9, 9);
 }
 ul {
 list-style : none;
@@ -175,6 +175,29 @@ color : whitesmoke;
     border-radius: 5px;
     padding: 8px 16px;
 }
+
+/* gallery page */
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 40px 20px 0 20px;
+}
+
+.container .heading{
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+.container .img-box{
+    display: flex;
+    flex-direction: column;
+    width: 32.5%;
+}
+
 
 @media (max-width: 100px) {
 secttion {
