@@ -132,6 +132,19 @@ header .nav li:last-child{
     header .nav li{
         margin: 0 7px;
     }
+
+    .box{
+        min-height: 600;
+    }
+    .box h1 {
+        font-size: 32px;
+    }
+    .box h3{
+        font-size: 20px;
+    }
+    box a.boxBtn{
+        padding: 15px 40px;
+    }
     }
 
 @media (max-width: 600px){
