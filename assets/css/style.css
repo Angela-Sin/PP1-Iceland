@@ -144,6 +144,13 @@ color : whitesmoke;
     transition: .6s;
 }
 
+.card img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
 
 @media (max-width: 100px) {
 secttion {
