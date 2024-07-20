@@ -32,7 +32,31 @@ header{
     justify-content: space-between;
     align-items: center;
     color: #000;
-    padding: 25px 100px 0;
+    padding: 35px 100px 0;
 
 }
+header a{
+    text-transform: capitalize;
+    font-weight: 900;
+}
+
+header h2{
+    text-transform: uppercase;
+}
+
+header .nav{
+    display: flex;
+}
+header .nav li{
+    margin: 0 15px;
+}
+
+header .nav li:first-child{
+    margin-left: 0;
+}
+
+header .nav li:last-child{
+    margin-right: 0;
+}
+
 
