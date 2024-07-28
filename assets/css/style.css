@@ -69,15 +69,7 @@ object-fit : cover;
 z-index : -1;
 }
 
-.box img {
-position : absolute;
-left : 0;
-top : 0;
-width : 100%;
-height : 100%;
-object-fit : cover;
-z-index : -1;
-}
+
 .box h1 {
 margin-bottom : 15px;
 font-size : 65px;
@@ -222,6 +214,16 @@ color : whitesmoke;
 
 /* Contact Page */
 
+.box img {
+position : absolute;
+left : 0;
+top : 0;
+width : 100%;
+height : 100%;
+object-fit : cover;
+z-index : -1;
+}
+
 .container{
     min-height: 100vh;
     background: #00000058;
@@ -259,6 +261,7 @@ color : whitesmoke;
     margin-bottom: 10px;
     background: none;
     border-bottom: 2px solid #fff;
+    text-decoration-color: #ddd;
 }
 
 .container form input::placeholder{
@@ -292,7 +295,28 @@ color : whitesmoke;
     max-height: 80px;
 }
 
+textarea::-webkit-scrollbar{
+    width: 1em;
+}
 
+textarea::-webkit-scrollbar-thumb{
+    background-color: #666;
+}
+
+.container form #button{
+    border: none;
+    background: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #666;
+    width: 100px;
+    padding: 0;
+    margin-right: 500px;
+    margin-bottom: 30px;
+    transition: 0.3s;
+}
 
 
 
