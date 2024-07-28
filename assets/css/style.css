@@ -6,6 +6,7 @@ box-sizing : border-box;
 body {
 font-family : 'Poppins', sans-serif;
 background-color: rgb(11, 9, 9);
+min-height: 100%;
 }
 ul {
 list-style : none;
@@ -219,10 +220,9 @@ position : absolute;
 left : 0;
 top : 0;
 width : 100%;
-min-height : 100vh;
+height : 100%;
 object-fit : cover;
-z-index : -1;
-}
+z-index : -1;}
 
 .contact-form{
     width: 85%;
