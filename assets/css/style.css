@@ -225,7 +225,7 @@ z-index : -1;
 }
 
 .container{
-    min-height: 100vh;
+    
     background: #00000058;
     display: flex;
     justify-content: center;
@@ -318,7 +318,10 @@ textarea::-webkit-scrollbar-thumb{
     transition: 0.3s;
 }
 
-
+.container form #button:hover{
+    background : #fff;
+color : #000;
+}
 
 
 
