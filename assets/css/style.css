@@ -220,6 +220,21 @@ color : whitesmoke;
     border-radius: 15px;
 }
 
+/* Contact Page */
+
+.container{
+    min-height: 100vh;
+    background: #00000058;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container form{
+    
+}
+
+
 @media (max-width: 100px) {
 secttion {
 padding : 100px 50px;
