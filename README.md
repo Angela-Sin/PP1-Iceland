@@ -1,4 +1,4 @@
-# Welcom to Iceland
+# Welcome to Iceland
 
 (Developer: Anzela Siniavskaja)
 
