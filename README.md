@@ -68,8 +68,12 @@ ___
       * The navigation bar is fully responsive on all four pages.
       * The link for the page the user is in right top corner on a page.
       * All links active
+        
    * Footer
-      * The footer is visible on all pages so that address and social media links are always available to the user
+      * The footer is visible on all pages so that address and social media links are always available to the user.
+      * Contains active links as navbar so user can easily reach each page from footer.
+        ![]()
+
    * Home Page
    * About Page
    * Gallery
