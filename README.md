@@ -68,12 +68,13 @@ ___
    * Navigation Bar
       * The navigation bar is visible on all pages.
       * The navigation bar is fully responsive on all four pages.
-      * The link for the page the user is in right top corner on a page.
-      * All links active
+      * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us
+      * All links active and fully responsive.
         
    * Footer
       * The footer is visible on all pages so that address and social media links are always available to the user.
       * Contains active links as navbar so user can easily reach each page from footer.
+      * The social media icons link to the four relevant social media accounts which placed on the center in the footer.
         
 
    * Home Page
@@ -84,6 +85,10 @@ ___
    * Contact Us
      
   ## Future addings
+  * Road Map
+      * One more page can be added with travel roadmap
+   * Navigation Bar
+       * A hamburger menu could be implemented to save space on smaller screens.
 # Testing
 ## Validation
  * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
