@@ -4,7 +4,7 @@
 
  The purpose of the site is to provide information about Iceland. The site provides information and images of the most popular tourist locations in Iceland.
 
- [Webpage](https://angela-sin.github.io/PROJECT1/)
+ The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/)
 
  ## Table of content
 
@@ -112,7 +112,7 @@ ___
 * The website was tested on numerous sized screens including Mobile phone, Ipad, Laptop and was found to respond as expected to all sizes. Chrome development tools was used throughout the design process to check responsiveness and breakpoints.
   
 # Bugs
-  * No bugs detected
+  * There are no bugs detected.
     
 # Deployment
  ## The site was deployed to Github pages using the following steps:
@@ -122,8 +122,18 @@ ___
   * In Settings scroll down to [GitHub](https://github.com/) pages which opens in a new page.
   * From the source section drop-down menu, select the Master Branch
   * Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
+  
+    The website is hosted on [GitHub](https://github.com/) Pages and can be accessed via this [Link](https://angela-sin.github.io/PROJECT1/)
 
-    Link You can find here [Webpage](https://angela-sin.github.io/PROJECT1/)
+# Version Control
+* The sourse of code is stored in the [GitHub](https://github.com/) page.
+* The repository contains a single branch, and all code has been submitted and commited as it was written, to ensure a good understanding. The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/), and can be downloaded or cloned for further development.
+
+# Commands
+* git add . - to add all changes to the staging state.
+* git commit -m "commit message" - to commit changes 
+* git push - to push all commits to repository on GitHub.
+
    
    
    
