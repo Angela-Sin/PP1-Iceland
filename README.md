@@ -11,7 +11,7 @@
 * Introduction
 * User Experience 
   * Target audience
-* Designe 
+* Design 
   * Design choice
   * Colour
   * Fonts
@@ -21,9 +21,65 @@
   * Frameworks & Tools
   * Languages
 * Features
+ 
 * Testing
 * Bugs
 * Deployment
 * Credits
 * Acnowledgments
- 
+ ___
+
+ # User Experience
+
+ ## Target audience
+ * Accessibility
+ * Good presentation and a visually appealing design regardless of screen size
+ * Simple Navigation 
+  ___
+
+# Design
+
+## Design Choice
+
+## Colour
+
+## Fonts
+ * Poppins: sans-serif
+
+## Structure
+
+## Fireframes
+___
+
+# Used Technologies
+
+##  Frameworks & Tools
+
+## Languages
+  * HTML
+  * CSS
+___
+
+# Features
+  ## Existing Features
+  
+   * Navigation Bar
+      * The navigation bar is visible on all pages.
+      * The navigation bar is fully responsive on all four pages.
+      * The link for the page the user is in right top corner on a page.
+      * All links active
+   * Footer
+      * The footer is visible on all pages so that address and social media links are always available to the user
+   * Home Page
+   * About Page
+   * Gallery
+   * Contact Us
+     
+  ## Future addings
+# Testing
+# Bugs
+  * No bugs detected
+# Deployment
+# Credits
+# Acnowledgments
+
