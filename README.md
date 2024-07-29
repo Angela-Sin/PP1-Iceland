@@ -59,8 +59,8 @@ ___
 ##  Frameworks & Tools
 
 ## Languages
-  * HTML
-  * CSS
+  * HTML Hyper Text Markup Language
+  * CSS Cascading Style Sheets
 ___
 
 # Features
@@ -138,7 +138,15 @@ ___
    
    
 # Credits
+
+## Media
 * Video for Home Page backround was taken from [pixabay.com](https://pixabay.com/videos/)
 * Images for Info Page, Gallery and Contact page was tooken from [pixabay.com](https://pixabay.com/photos/) [pexels.com](https://www.pexels.com/)
+
+## Text content
+* Text content was taken from [google.com](https://www.google.com/search?q=iceland&sca_esv=ea8345caca9cba8c&sxsrf=ADLYWIJkOodSVq-yCDIXpjr_QUhxS0frow%3A1722275490637&source=hp&ei=otanZvT4JPG4hbIPrYifuQY&iflsig=AL9hbdgAAAAAZqfkspdes9NE-qZJp5NeFbGA3VK-yunA&ved=0ahUKEwj00cqW6MyHAxVxXEEAHS3EJ2cQ4dUDCBg&uact=5&oq=iceland&gs_lp=Egdnd3Mtd2l6IgdpY2VsYW5kMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMhEQLhiABBiRAhixAxjJAxiKBTIIEAAYgAQYkgMyCBAAGIAEGJIDMggQABiABBixAzIOEC4YgAQYsQMY0QMYxwEyBRAAGIAEMgsQLhiABBjHARivATIIEAAYgAQYsQNIrw9QAFjNDHAAeACQAQCYAVmgAegDqgEBN7gBA8gBAPgBAZgCB6ACigTCAhEQLhiABBiRAhjRAxjHARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAhAQLhiABBjHARgnGIoFGK8BwgILEAAYgAQYkQIYigXCAgsQLhiABBixAxiDAcICCBAuGIAEGLEDwgIXEC4YgAQYsQMYgwEYxwEYmAUYmQUYrwGYAwCSBwE3oAfQYA&sclient=gws-wiz) and [Wikipedia](https://en.wikipedia.org/wiki/Iceland).
+
+## HTML CSS code
+* Code was created using information provided by Codeinstitute [W3school](https://pathfinder.w3schools.com/) and [youtube](https://www.youtube.com/)
 # Acnowledgments
 
