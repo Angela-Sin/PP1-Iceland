@@ -23,6 +23,8 @@
 * Features
  
 * Testing
+  * Validation
+  * Responsiveness
 * Bugs
 * Deployment
 * Credits
@@ -83,6 +85,13 @@ ___
      
   ## Future addings
 # Testing
+## Validation
+ * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
+ * [CSS Validator](https://jigsaw.w3.org/css-validator/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code successfully passed the validator with no errors.
+## Responsiveness
+
+* The website was tested on on such browsers as Chrome, Edge and Safari with no problems found.
+* The website was tested on numerous sized screens including Mobile phone, Ipad, Laptop and was found to respond as expected to all sizes. Chrome development tools was used throughout the design process to check responsiveness and breakpoints. 
 # Bugs
   * No bugs detected
 # Deployment
