@@ -47,6 +47,7 @@ This website is designed as a four page website with four sections Home, About, 
 ## Design Choice
 
 ## Colour
+* [colors.co](https://coolors.co/) was used to generate colors.
 
 ## Fonts
  * Poppins: sans-serif
@@ -153,5 +154,6 @@ ___
 
 # Tools
 * [AmIResponsive](https://ui.dev/amiresponsive) was used to take the screenshot with different devices presented at the top of this document.
+* [colors.co](https://coolors.co/) was used to generate colors.
 # Acnowledgments
 
