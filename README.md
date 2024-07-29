@@ -4,7 +4,7 @@
 
  The purpose of the site is to provide information about Iceland. The site provides information and images of the most popular tourist locations in Iceland.
 
- ![Alt text]()
+ ![Alt text](https://ui.dev/amiresponsive?url=https://angela-sin.github.io/PROJECT1/index.html)
 
  The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/)
 
@@ -150,5 +150,8 @@ ___
 
 ## HTML CSS code
 * Code was created using information provided by Codeinstitute [W3school](https://pathfinder.w3schools.com/) and [youtube](https://www.youtube.com/)
+
+# Tools
+* [AmIResponsive](https://ui.dev/amiresponsive) was used to take the screenshot with different devices presented at the top of this document.
 # Acnowledgments
 
