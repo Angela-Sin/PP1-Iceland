@@ -72,11 +72,13 @@ ___
    * Footer
       * The footer is visible on all pages so that address and social media links are always available to the user.
       * Contains active links as navbar so user can easily reach each page from footer.
-        ![]()
+        
 
    * Home Page
+       * 
    * About Page
    * Gallery
+       * The Gallery page contains an image gallery section which shows images relevant to the site.
    * Contact Us
      
   ## Future addings
@@ -84,6 +86,19 @@ ___
 # Bugs
   * No bugs detected
 # Deployment
+ ## The site was deployed to Github pages using the following steps:
+  * Log in to [GitHub](https://github.com/)
+  * Navigate to [Angela-Sin](https://github.com/Angela-Sin) in the list of repositories
+  * In the GitHub repository, navigate to the Settings tab
+  * In Settings scroll down to [GitHub](https://github.com/) pages which opens in a new page.
+  * From the source section drop-down menu, select the Master Branch
+  * Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
+
+    
+Link You can find here [Webpage](https://angela-sin.github.io/PROJECT1/)
+   
+   
+   
 # Credits
 # Acnowledgments
 
