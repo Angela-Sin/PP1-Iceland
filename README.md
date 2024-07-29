@@ -8,7 +8,7 @@
 
  ## Table of content
 
-* Introduction
+* Overview
 * User Experience 
   * Target audience
 * Design 
@@ -30,7 +30,8 @@
 * Credits
 * Acnowledgments
  ___
-
+# Overview
+This website is designed as a four page website with four sections Home, About, Gallery, and Contact. All animations are fully responsive for all media screens.
  # User Experience
 
  ## Target audience
@@ -63,13 +64,13 @@ ___
 ___
 
 # Features
+
   ## Existing Features
   
    * Navigation Bar
-      * The navigation bar is visible on all pages.
+      * The Navigation bar has a fixed position at the top of each page so that users have access to the menu at all times when scrolling through the content in all pages.
       * The navigation bar is fully responsive on all four pages.
-      * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us
-      * All links active and fully responsive.
+      * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us.
         
    * Footer
       * The footer is visible on all pages so that address and social media links are always available to the user.
@@ -78,27 +79,41 @@ ___
         
 
    * Home Page
-       * 
+       * As a backroung I set a mp4 format video of Icelandic Aurora night. 
+       * Home Page is a main navigation page, it contains linked navigation bar, footer and at the center fo home page user can find a Welcome greetings an a active button which also can provide user to an info page.
    * About Page
+      * Its an main info page which contains main information about the Iceland.
+      * Each topic is separated into seperate section, also have its own topic name, picture, small part of text and button which is linked with [Wikipedia](https://en.wikipedia.org/wiki/Iceland) page for more info. 
    * Gallery
        * The Gallery page contains an image gallery section which shows images relevant to the site.
    * Contact Us
      
   ## Future addings
+  
   * Road Map
+    
       * One more page can be added with travel roadmap
+        
    * Navigation Bar
+     
        * A hamburger menu could be implemented to save space on smaller screens.
+         
 # Testing
+
+* In terms of accessibility, the website and the code itself have been carefully checked for compatibility with screen readers and the color palette used to ensure good visibility of all elements.
+
 ## Validation
  * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
  * [CSS Validator](https://jigsaw.w3.org/css-validator/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code successfully passed the validator with no errors.
+    
 ## Responsiveness
 
 * The website was tested on on such browsers as Chrome, Edge and Safari with no problems found.
-* The website was tested on numerous sized screens including Mobile phone, Ipad, Laptop and was found to respond as expected to all sizes. Chrome development tools was used throughout the design process to check responsiveness and breakpoints. 
+* The website was tested on numerous sized screens including Mobile phone, Ipad, Laptop and was found to respond as expected to all sizes. Chrome development tools was used throughout the design process to check responsiveness and breakpoints.
+  
 # Bugs
   * No bugs detected
+    
 # Deployment
  ## The site was deployed to Github pages using the following steps:
   * Log in to [GitHub](https://github.com/)
@@ -108,11 +123,12 @@ ___
   * From the source section drop-down menu, select the Master Branch
   * Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
 
-    
-Link You can find here [Webpage](https://angela-sin.github.io/PROJECT1/)
+    Link You can find here [Webpage](https://angela-sin.github.io/PROJECT1/)
    
    
    
 # Credits
+* Video for Home Page backround was taken from [pixabay.com](https://pixabay.com/videos/)
+* Images for Info Page, Gallery and Contact page was tooken from [pixabay.com](https://pixabay.com/photos/) [pexels.com](https://www.pexels.com/)
 # Acnowledgments
 
