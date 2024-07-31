@@ -10,27 +10,9 @@
 
  The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/)
 
- ## Table of content
-
-* Overview
-* User Experience 
-  * Target audience
-* Design 
-  * Colour
-  * Fonts
-* Used Technologies
-  * Frameworks & Tools
-  * Languages
-* Features
  
-* Testing
-  * Validation
-  * Responsiveness
-* Bugs
-* Deployment
-* Credits
-* Acnowledgments
- ___
+
+
 # Overview
 This website is designed as a four page website with four sections Home, About, Gallery, and Contact. All animations are fully responsive for all media screens.
  # User Experience
@@ -150,6 +132,11 @@ This website is designed as a four page website with four sections Home, About, 
 
 * The website was tested on on such browsers as Chrome, Edge and Safari with no problems found.
 * The website was tested on numerous sized screens including Mobile phone, Ipad, Laptop and was found to respond as expected to all sizes. Chrome development tools was used throughout the design process to check responsiveness and breakpoints.
+
+# Ligthouse 
+
+![Screenshot 2024-07-31 181143](https://github.com/user-attachments/assets/31424c07-fed4-439e-ab44-200df8d4103c)
+![Screenshot 2024-07-31 181157](https://github.com/user-attachments/assets/6944cedc-5695-4f4a-b097-e3958c740e96)
   
 # Bugs
   * There are no bugs detected.
