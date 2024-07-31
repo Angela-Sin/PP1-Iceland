@@ -47,7 +47,7 @@ This website is designed as a four page website with four sections Home, About, 
 * [colors.co](https://coolors.co/) was used to generate colors.
 * Deep and earthy colors was chosen for the website to show the nature beauty of the country.
 
-  ![Color Pallete](https://github.com/user-attachments/assets/63fbc166-e5cb-41e7-beb0-10c61dc4340e)
+![Screenshot 2024-07-31 172301](https://github.com/user-attachments/assets/4f68a847-5113-400f-8c36-8ca50aacdacc)
 
 ## Fonts
  * Poppins: sans-serif
