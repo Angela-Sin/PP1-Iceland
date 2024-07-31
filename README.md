@@ -69,10 +69,15 @@ This website is designed as a four page website with four sections Home, About, 
       * The Navigation bar has a fixed position at the top of each page so that users have access to the menu at all times when scrolling through the content in all pages.
       * The navigation bar is fully responsive on all four pages.
       * The font color is in contrast with the navigation background color.
-      * The navigation bar is at the top of the page, and it is fixed to the top. The logo is in the left-hand corner of the navigation. On small screens navigation bar mooving under the icon.
+      * The navigation bar is at the top of the page, and it is fixed to the top. The logo is in the left-hand corner of the navigation.
+  ![Screenshot 2024-07-31 161640](https://github.com/user-attachments/assets/06abed89-2895-43a4-9e55-68cf1a38a933)
+      *  On small screens navigation bar mooving under the icon.
+        
+         ![Screenshot 2024-07-31 174038](https://github.com/user-attachments/assets/7cc1f6aa-21c3-442a-a181-279328020fa9)
+
       * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us.
 
-        ![Screenshot 2024-07-31 161640](https://github.com/user-attachments/assets/06abed89-2895-43a4-9e55-68cf1a38a933)
+      
         
    * Footer
       * The footer is visible on all pages so that address and social media links are always available to the user.
@@ -87,13 +92,14 @@ This website is designed as a four page website with four sections Home, About, 
 
          ![Screenshot 2024-07-31 161841](https://github.com/user-attachments/assets/05f39b55-f9fb-427a-9189-c8eebd3998b5)
        * Home Page is a main navigation page, it contains linked navigation bar, footer and at the center fo home page user can find a Welcome greetings an a active "Explore" button which also can provide user to an "About" page.
+       * Explore button changing its color when user pointing coursore on it as it shows active button.
+       
     
-         
-![Screenshot 2024-07-31 161936](https://github.com/user-attachments/assets/d9d74b26-af3e-415c-8fdc-113570f4e941)
-
+![Screenshot 2024-07-31 174718](https://github.com/user-attachments/assets/cadb54d9-59fe-40d0-8b16-1ced821d8e88)         
 
 ![Screenshot 2024-07-31 161946](https://github.com/user-attachments/assets/1af7741f-d88c-4247-bbd8-b14f1b1c6033)
-      * Explore button changing its color when user pointing coursore on it as it shows active button.
+
+      
          
    * About Page
       * Its an main info page which contains main information about the Iceland.
