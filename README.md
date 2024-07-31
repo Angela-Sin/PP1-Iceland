@@ -179,6 +179,7 @@ This website is designed as a four page website with four sections Home, About, 
 * [AmIResponsive](https://ui.dev/amiresponsive) was used to take the screenshot with different devices presented at the top of this document.
 * [colors.co](https://coolors.co/) was used to generate colors.
 * [Freeformater](https://www.freeformatter.com/css-beautifier.html) used to format css code.
+* [pagespeed.web](https://pagespeed.web.dev/) used to chech page accesability.
 
   
 # Acknowledgements
