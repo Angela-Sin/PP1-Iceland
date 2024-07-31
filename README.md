@@ -4,7 +4,7 @@
 
  The purpose of the site is to provide information about Iceland. The site provides information and images of the most popular tourist locations in Iceland.
 
- ![Alt text](https://ui.dev/amiresponsive?url=https://angela-sin.github.io/PROJECT1/index.html)
+ ![Screenshot 2024-07-31 152141](https://github.com/user-attachments/assets/f6d6b7c1-b0df-450f-b20b-168511523d56)
 
  The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/)
 
@@ -48,6 +48,9 @@ This website is designed as a four page website with four sections Home, About, 
 
 ## Colour
 * [colors.co](https://coolors.co/) was used to generate colors.
+* Deep and earthy colors was chosen for the website to show the nature beauty of the country.
+
+  ![Color Pallete](https://github.com/user-attachments/assets/63fbc166-e5cb-41e7-beb0-10c61dc4340e)
 
 ## Fonts
  * Poppins: sans-serif
@@ -76,33 +79,53 @@ ___
       * The font color is in contrast with the navigation background color.
       * The navigation bar is at the top of the page, and it is fixed to the top. The logo is in the left-hand corner of the navigation. On small screens navigation bar mooving under the icon.
       * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us.
+
+        ![Screenshot 2024-07-31 161640](https://github.com/user-attachments/assets/06abed89-2895-43a4-9e55-68cf1a38a933)
         
    * Footer
       * The footer is visible on all pages so that address and social media links are always available to the user.
       * Contains active links as navbar so user can easily reach each page from footer asweal.
       * The social media icons link to the four relevant social media accounts which placed on the center in the footer.
+    
+        ![Screenshot 2024-07-29 154620](https://github.com/user-attachments/assets/63269c2f-a6c1-4a0e-9385-f918134bc550)
         
 
    * Home Page
-       * As a backroung I set a mp4 format video of Icelandic Aurora night. 
-       * Home Page is a main navigation page, it contains linked navigation bar, footer and at the center fo home page user can find a Welcome greetings an a active "Explore" button which also can provide user to an "About" page.
+       * As a backroung I set a mp4 format video of Icelandic Aurora night.
 
+         ![Screenshot 2024-07-31 161841](https://github.com/user-attachments/assets/05f39b55-f9fb-427a-9189-c8eebd3998b5)
+       * Home Page is a main navigation page, it contains linked navigation bar, footer and at the center fo home page user can find a Welcome greetings an a active "Explore" button which also can provide user to an "About" page.
+    
+         
+![Screenshot 2024-07-31 161936](https://github.com/user-attachments/assets/d9d74b26-af3e-415c-8fdc-113570f4e941)
+
+
+![Screenshot 2024-07-31 161946](https://github.com/user-attachments/assets/1af7741f-d88c-4247-bbd8-b14f1b1c6033)
+       * Explore button changing its color when user pointing coursore on it as it shows active button.
          
    * About Page
       * Its an main info page which contains main information about the Iceland.
       * Each topic is separated into seperate section, also have its own topic name, picture, small part of text and button which is linked with [Wikipedia](https://en.wikipedia.org/wiki/Iceland) page for more info.
+      * All topics set in two columns and four rows on a big screen, as screen size decreasing rows number decreasing and column number increasing.
+      * Each section also have a hover effect you can see on a picture below "Blue Lagoon" section.
+
+        ![Screenshot 2024-07-31 161108](https://github.com/user-attachments/assets/6b931a12-fd8b-40c0-ad3e-6de77ff6c7e4)
     
          
    * Gallery
        * The Gallery page contains an image gallery section which shows images relevant to the site.
        * All images on big screen shown in three columns on big screens, started from 425px screens shown in a single column.
-       * All images also have a hover effect as elements on "About" page.
+       * All images also have a hover effect as elements on "About" page, you can see on a picture below fox image.
+    
+         ![Screenshot 2024-07-31 160832](https://github.com/user-attachments/assets/0d36df7d-79bd-4e09-b5ed-d273e74a814a)
     
          
    * Contact Us
        * For "Contact Us" page I choose as a background a Lava picture so express the thoughts what is says on a "Home" page "Land of Ice and Fire".
        * Contact Us page contains contact form in a center od the page.
        * Contact form contains FULL NAME, EMAIL, MOBILE NUMBER and MESSAGE fiels, with button under.
+
+         ![Screenshot 2024-07-31 160614](https://github.com/user-attachments/assets/388ff065-8597-4526-b90f-3bfb6d9e55b0)
      
   ## Future addings
   
@@ -120,7 +143,10 @@ ___
 
 ## Validation
  * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
+![Screenshot 2024-07-31 160347](https://github.com/user-attachments/assets/b11a4454-9ec6-4864-bfb9-7a0c57a325ac)
+   
  * [CSS Validator](https://jigsaw.w3.org/css-validator/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code successfully passed the validator with no errors.
+![Screenshot 2024-07-31 160033](https://github.com/user-attachments/assets/0f63e7ed-118e-4602-9b61-0962e87917ec)
     
 ## Responsiveness
 
@@ -129,6 +155,8 @@ ___
   
 # Bugs
   * There are no bugs detected.
+
+    ![Screenshot 2024-07-31 161328](https://github.com/user-attachments/assets/295f8187-9d5f-49ac-92fa-7575d6bd110d)
     
 # Deployment
  ## The site was deployed to Github pages using the following steps:
