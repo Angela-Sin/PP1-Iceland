@@ -163,11 +163,15 @@ ___
 * Text content was taken from [google.com](https://www.google.com/search?q=iceland&sca_esv=ea8345caca9cba8c&sxsrf=ADLYWIJkOodSVq-yCDIXpjr_QUhxS0frow%3A1722275490637&source=hp&ei=otanZvT4JPG4hbIPrYifuQY&iflsig=AL9hbdgAAAAAZqfkspdes9NE-qZJp5NeFbGA3VK-yunA&ved=0ahUKEwj00cqW6MyHAxVxXEEAHS3EJ2cQ4dUDCBg&uact=5&oq=iceland&gs_lp=Egdnd3Mtd2l6IgdpY2VsYW5kMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMhEQLhiABBiRAhixAxjJAxiKBTIIEAAYgAQYkgMyCBAAGIAEGJIDMggQABiABBixAzIOEC4YgAQYsQMY0QMYxwEyBRAAGIAEMgsQLhiABBjHARivATIIEAAYgAQYsQNIrw9QAFjNDHAAeACQAQCYAVmgAegDqgEBN7gBA8gBAPgBAZgCB6ACigTCAhEQLhiABBiRAhjRAxjHARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAhAQLhiABBjHARgnGIoFGK8BwgILEAAYgAQYkQIYigXCAgsQLhiABBixAxiDAcICCBAuGIAEGLEDwgIXEC4YgAQYsQMYgwEYxwEYmAUYmQUYrwGYAwCSBwE3oAfQYA&sclient=gws-wiz) and [Wikipedia](https://en.wikipedia.org/wiki/Iceland).
 
 ## HTML CSS code
-* Code was created using information provided by [Codeinstitute](https://learn.codeinstitute.net/), [W3school](https://pathfinder.w3schools.com/) and [youtube](https://www.youtube.com/)
+* Code was created using information provided by [Codeinstitute](https://learn.codeinstitute.net/), [W3school](https://pathfinder.w3schools.com/) and [youtube](https://www.youtube.com/) where I took the idea for a video backround for "Home" page.
 
 # Tools
 * [AmIResponsive](https://ui.dev/amiresponsive) was used to take the screenshot with different devices presented at the top of this document.
 * [colors.co](https://coolors.co/) was used to generate colors.
 * [Freeformater](https://www.freeformatter.com/css-beautifier.html) used to format css code.
-# Acnowledgments
+
+  
+# Acknowledgments
+* A big thank you for my mentor Medale Oluwafemi for helping me understand the requirements and guiding me through the realization of this project!
+* The the Code Institute tutor support team for helping me with the correct guidance.
 
