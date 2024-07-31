@@ -171,7 +171,7 @@ ___
 * [Freeformater](https://www.freeformatter.com/css-beautifier.html) used to format css code.
 
   
-# Acknowledgments
+# Acknowledgements
 * A big thank you for my mentor Medale Oluwafemi for helping me understand the requirements and guiding me through the realization of this project!
 * The the Code Institute tutor support team for helping me with the correct guidance.
 
