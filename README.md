@@ -85,13 +85,24 @@ ___
 
    * Home Page
        * As a backroung I set a mp4 format video of Icelandic Aurora night. 
-       * Home Page is a main navigation page, it contains linked navigation bar, footer and at the center fo home page user can find a Welcome greetings an a active button which also can provide user to an info page.
+       * Home Page is a main navigation page, it contains linked navigation bar, footer and at the center fo home page user can find a Welcome greetings an a active "Explore" button which also can provide user to an "About" page.
+
+         
    * About Page
       * Its an main info page which contains main information about the Iceland.
-      * Each topic is separated into seperate section, also have its own topic name, picture, small part of text and button which is linked with [Wikipedia](https://en.wikipedia.org/wiki/Iceland) page for more info. 
+      * Each topic is separated into seperate section, also have its own topic name, picture, small part of text and button which is linked with [Wikipedia](https://en.wikipedia.org/wiki/Iceland) page for more info.
+    
+         
    * Gallery
        * The Gallery page contains an image gallery section which shows images relevant to the site.
+       * All images on big screen shown in three columns on big screens, started from 425px screens shown in a single column.
+       * All images also have a hover effect as elements on "About" page.
+    
+         
    * Contact Us
+       * For "Contact Us" page I choose as a background a Lava picture so express the thoughts what is says on a "Home" page "Land of Ice and Fire".
+       * Contact Us page contains contact form in a center od the page.
+       * Contact form contains FULL NAME, EMAIL, MOBILE NUMBER and MESSAGE fiels, with button under.
      
   ## Future addings
   
