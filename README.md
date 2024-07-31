@@ -74,12 +74,12 @@ ___
       * The Navigation bar has a fixed position at the top of each page so that users have access to the menu at all times when scrolling through the content in all pages.
       * The navigation bar is fully responsive on all four pages.
       * The font color is in contrast with the navigation background color.
-      * The navigation bar is at the top of the page, and it is fixed to the top. The logo is in the left-hand corner of the navigation
+      * The navigation bar is at the top of the page, and it is fixed to the top. The logo is in the left-hand corner of the navigation. On small screens navigation bar mooving under the icon.
       * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us.
         
    * Footer
       * The footer is visible on all pages so that address and social media links are always available to the user.
-      * Contains active links as navbar so user can easily reach each page from footer.
+      * Contains active links as navbar so user can easily reach each page from footer asweal.
       * The social media icons link to the four relevant social media accounts which placed on the center in the footer.
         
 
