@@ -4,6 +4,8 @@
 
  The purpose of the site is to provide information about Iceland. The site provides information and images of the most popular tourist locations in Iceland.
 
+ Users of this website can find out more about the Iceland, short concept about most popular places for tourists, a gallery of of a beautiful natur, fauna and places, and a contact form for requesting more information. The website was created using the responsive-first concept and is responsive on all screen sizes.
+
  ![Screenshot 2024-07-31 152141](https://github.com/user-attachments/assets/f6d6b7c1-b0df-450f-b20b-168511523d56)
 
  The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/)
