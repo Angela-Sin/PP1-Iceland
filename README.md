@@ -73,6 +73,8 @@ ___
    * Navigation Bar
       * The Navigation bar has a fixed position at the top of each page so that users have access to the menu at all times when scrolling through the content in all pages.
       * The navigation bar is fully responsive on all four pages.
+      * The font color is in contrast with the navigation background color.
+      * The navigation bar is at the top of the page, and it is fixed to the top. The logo is in the left-hand corner of the navigation
       * The navigation bar links to each of the four pages of the site: Home, About, Gallery and Contact Us.
         
    * Footer
@@ -150,10 +152,11 @@ ___
 * Text content was taken from [google.com](https://www.google.com/search?q=iceland&sca_esv=ea8345caca9cba8c&sxsrf=ADLYWIJkOodSVq-yCDIXpjr_QUhxS0frow%3A1722275490637&source=hp&ei=otanZvT4JPG4hbIPrYifuQY&iflsig=AL9hbdgAAAAAZqfkspdes9NE-qZJp5NeFbGA3VK-yunA&ved=0ahUKEwj00cqW6MyHAxVxXEEAHS3EJ2cQ4dUDCBg&uact=5&oq=iceland&gs_lp=Egdnd3Mtd2l6IgdpY2VsYW5kMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMhEQLhiABBiRAhixAxjJAxiKBTIIEAAYgAQYkgMyCBAAGIAEGJIDMggQABiABBixAzIOEC4YgAQYsQMY0QMYxwEyBRAAGIAEMgsQLhiABBjHARivATIIEAAYgAQYsQNIrw9QAFjNDHAAeACQAQCYAVmgAegDqgEBN7gBA8gBAPgBAZgCB6ACigTCAhEQLhiABBiRAhjRAxjHARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAhAQLhiABBjHARgnGIoFGK8BwgILEAAYgAQYkQIYigXCAgsQLhiABBixAxiDAcICCBAuGIAEGLEDwgIXEC4YgAQYsQMYgwEYxwEYmAUYmQUYrwGYAwCSBwE3oAfQYA&sclient=gws-wiz) and [Wikipedia](https://en.wikipedia.org/wiki/Iceland).
 
 ## HTML CSS code
-* Code was created using information provided by Codeinstitute [W3school](https://pathfinder.w3schools.com/) and [youtube](https://www.youtube.com/)
+* Code was created using information provided by [Codeinstitute](https://learn.codeinstitute.net/), [W3school](https://pathfinder.w3schools.com/) and [youtube](https://www.youtube.com/)
 
 # Tools
 * [AmIResponsive](https://ui.dev/amiresponsive) was used to take the screenshot with different devices presented at the top of this document.
 * [colors.co](https://coolors.co/) was used to generate colors.
+* [Freeformater](https://www.freeformatter.com/css-beautifier.html) used to format css code.
 # Acnowledgments
 
