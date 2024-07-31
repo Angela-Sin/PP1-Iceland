@@ -14,11 +14,8 @@
 * User Experience 
   * Target audience
 * Design 
-  * Design choice
   * Colour
   * Fonts
-  * Structure
-  * Fireframes
 * Used Technologies
   * Frameworks & Tools
   * Languages
@@ -44,8 +41,6 @@ This website is designed as a four page website with four sections Home, About, 
 
 # Design
 
-## Design Choice
-
 ## Colour
 * [colors.co](https://coolors.co/) was used to generate colors.
 * Deep and earthy colors was chosen for the website to show the nature beauty of the country.
@@ -55,19 +50,14 @@ This website is designed as a four page website with four sections Home, About, 
 ## Fonts
  * Poppins: sans-serif
 
-## Structure
 
-## Fireframes
-___
 
 # Used Technologies
 
-##  Frameworks & Tools
 
 ## Languages
   * HTML Hyper Text Markup Language
   * CSS Cascading Style Sheets
-___
 
 # Features
 
@@ -101,7 +91,7 @@ ___
 
 
 ![Screenshot 2024-07-31 161946](https://github.com/user-attachments/assets/1af7741f-d88c-4247-bbd8-b14f1b1c6033)
-       * Explore button changing its color when user pointing coursore on it as it shows active button.
+      * Explore button changing its color when user pointing coursore on it as it shows active button.
          
    * About Page
       * Its an main info page which contains main information about the Iceland.
@@ -176,10 +166,7 @@ ___
 # Commands
 * git add . - to add all changes to the staging state.
 * git commit -m "commit message" - to commit changes 
-* git push - to push all commits to repository on GitHub.
-
-   
-   
+* git push - to push all commits to repository on GitHub.   
    
 # Credits
 
