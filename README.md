@@ -8,7 +8,7 @@
 
  ![Screenshot 2024-07-31 152141](https://github.com/user-attachments/assets/f6d6b7c1-b0df-450f-b20b-168511523d56)
 
- The repository can be found at this [Link](https://angela-sin.github.io/PROJECT1/)
+ The repository can be found at this [Link]((https://angela-sin.github.io/PP1-Iceland/))
 
  
 
